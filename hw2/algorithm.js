@@ -13,4 +13,4 @@ for (let x = 1; x <= 100; x++) {
     document.body.appendChild(p)
 }
 document.getElementById("maxi").textContent = "Max Number: " + Math.max(...raNums)
-document.getElementById("sumof".textContent = "Grand Total: " + total
+document.getElementById("sumof").textContent = "Grand Total: " + total
