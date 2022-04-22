@@ -1,7 +1,8 @@
 let div = document.getElementById('content');
 let canvas = document.createElement("canvas");
 div.appendChild(canvas);
-  <img id="image" src=
+  <div>
+    <img id="image" src=
 "i-am-lost-5cd1a6.jpg"
             alt="Lost Image" />
     </div>
