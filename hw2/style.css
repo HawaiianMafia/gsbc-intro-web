@@ -17,13 +17,13 @@ h1 {
 }
 
 #intergers {
-    text-align: left;
-    float: left;
+    text-align: center;
+    float: center;
     font-family: brandon grotesque;
 }
 
 #largest {
-    text-align: center;
+    text-align: right;
     font-family: brandon grotesque;
 }
 
