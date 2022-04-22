@@ -3,13 +3,9 @@ body {
 }
 
 h1, h2, h3, h4,  {font-family:palatino linotype; text-align: center;}
-  p {font-family:brandon grotesque;}
+  p {font-family:brandon grotesque;text-align: center;}
 h   {color: black;}
 p    {color: black;}
-}
-
-h1 {
-    text-align: center;
 }
 
 .joke {
